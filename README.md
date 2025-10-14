@@ -86,17 +86,3 @@ Run the included tests with:
 python tests.py
 ```
 
-## 🔮 Roadmap Ideas
-
-- Add memory/context persistence
-- Implement agent feedback loop
-- Enhance logging and monitoring
-- Integrate with external APIs
-
-## 📄 License
-
-Specify your license here (e.g., MIT, Apache 2.0).
-
----
-
-> 📌 Repo: [github.com/kzxjg/AI-agent](https://github.com/kzxjg/AI-agent)
