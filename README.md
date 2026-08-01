@@ -2,7 +2,7 @@
 
 A lightweight and extensible Python-based autonomous agent framework. This project offers a modular structure to develop, test, and extend tool-using AI agents, designed for experimentation and practical integration.
 
-## 🚀 Features
+## Features
 
 - Modular agent framework
 - Built-in tool invocation
@@ -10,7 +10,7 @@ A lightweight and extensible Python-based autonomous agent framework. This proje
 - Simple configuration
 - Minimal dependencies
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/kzxjg/AI-agent.git
@@ -34,7 +34,7 @@ Example settings:
 - `MODEL`: model name (e.g., `gpt-4`)
 - `TOOLS`: list of enabled tools
 
-## 🧠 Usage
+## Usage
 
 Run the agent with:
 
@@ -56,7 +56,7 @@ Using calculator tool...
 Answer: 100
 ```
 
-## 🛠️ Tools
+## Tools
 
 Tools are defined in the `functions/` directory. Example tools:
 - `calculator`: simple math operations
@@ -66,7 +66,7 @@ You can add new tools by:
 1. Creating a Python function
 2. Registering it in `config.py`
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 AI-agent/
@@ -78,7 +78,7 @@ AI-agent/
 └── pyproject.toml        # Project metadata
 ```
 
-## 🧪 Running Tests
+## Running Tests
 
 Run the included tests with:
 
